@@ -1,4 +1,4 @@
-variable "var.ENVIRONMENT" {
+variable "ENVIRONMENT" {
   
 }
 
