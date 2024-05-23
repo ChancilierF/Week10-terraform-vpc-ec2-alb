@@ -2,10 +2,10 @@ variable "var.ENVIRONMENT" {
   
 }
 
-variable "var.REGION" {
+variable "REGION" {
   
 }
 
-variable "var.INSTANCE_TYPE" {
+variable "INSTANCE_TYPE" {
   
 }
