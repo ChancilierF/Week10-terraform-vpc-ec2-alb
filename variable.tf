@@ -1,11 +1,11 @@
-variable "ENVIRONMENT" {
+variable "var.ENVIRONMENT" {
   
 }
 
-variable "REGION" {
+variable "var.REGION" {
   
 }
 
-variable "INSTANCE_TYPE" {
+variable "var.INSTANCE_TYPE" {
   
 }
