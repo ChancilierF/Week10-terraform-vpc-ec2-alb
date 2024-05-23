@@ -2,7 +2,7 @@ variable "ENVIRONMENT" {
   
 }
 
-variable "REGION" {
+variable "var.REGION" {
   
 }
 
